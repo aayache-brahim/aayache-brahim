@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AAYACHE-Brahim
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning React.js and Laravel  
+- 🌱 I’m currently learning React.js && Laravel  && symphony 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
